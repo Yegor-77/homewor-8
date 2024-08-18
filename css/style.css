@@ -1,0 +1,136 @@
+.yellow{
+    color: yellow;
+}
+
+#greycol{
+    color: gray;
+}
+
+div+ h3+ p{
+    color: green;
+}
+
+h3:first-child{
+    color: pink;
+}
+.text-box > div> p{
+    color: red;
+}
+
+
+
+
+
+
+
+.link{
+    color: black;
+}
+
+.link:hover{
+      color: aqua;
+}
+
+.link:focus{
+    color: blueviolet;
+}
+    
+link:active{
+    color: gold;
+}
+
+.ad{
+    color: greenyellow;
+}
+.head{
+    color: blueviolet;
+}
+
+.head:hover{
+    color: violet;
+    font-size: 30px;
+}
+
+.body:hover{
+    color: gray;
+}
+
+
+.ad:hover{
+    color: green;
+}
+
+
+.lin{
+    color: burlywood;
+}
+
+
+.lin:hover{
+    color: yellow;
+}
+
+.ad:hover{
+    color: green;
+    font-size: 40px;
+}
+
+.lid{
+    color: brown;
+}
+
+.lid:hover{
+    color: darkorchid;
+}
+
+.go:hover{
+         font-size: 30px;
+}
+
+.go:nth-child(2){
+    color: red;
+}
+.go:first-child{
+    color: greenyellow;
+}
+.go:nth-child(3){
+    color: greenyellow;
+}
+.go:last-child{
+    color: greenyellow;
+}
+.go:nth-child(4){
+    color: greenyellow;
+}
+
+.foot:nth-child(2){
+    color: greenyellow;
+}
+.foot:nth-child(3){
+    color: greenyellow;
+}
+.foot:first-child{
+    color: red;
+}
+
+.foot:nth-child(4){
+    color: red;
+}
+
+.foot:last-child{
+    color: greenyellow;
+}
+
+
+
+.linkk{
+    color: aqua;
+}
+.linkk:hover{
+    color: fuchsia;
+}
+
+
+.head:focus{
+    color: darkmagenta;
+}
